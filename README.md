@@ -20,3 +20,5 @@ That's really all that there is to know about me. If your interested in getting 
 ## My Current Github Stats
 
  ![ComputerComa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComputerComa&show_icons=true&theme=dark&count_private=true)
+ 
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerComa&theme=dark&layout=compact&count_private=true)
