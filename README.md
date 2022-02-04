@@ -14,7 +14,7 @@ That's really all that there is to know about me. If your interested in getting 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Computr_Coma)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='40'>](https://twitter.com/ComputerComa)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discor' height='40'>](https://dsc.bio/computercoma)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discor' height='40'>](https://dsc.bio/CompuerComa)
 
 ## My Current Github Stats
 
